@@ -29,7 +29,7 @@ gh auth login
 ### **3. Create a New Repository**
 Run the following command:
 ```sh
-gh repo create my-repo --public --source=. --remote=origin
+gh repo create my-repo --public
 ```
 Replace `my-repo` with your desired repository name.
 
